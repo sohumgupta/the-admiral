@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3aeddfb06d5a0472ca0dc9590ea8889a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mine: {fileID: 3246870324007683352, guid: 696e93aeca083471395bf53d36f384d0, type: 3}
+  - boidGod: {fileID: 9193939440232169477, guid: 25d9c5e837a624e23ad7938418bc661f,
+      type: 3}
+  - terrainPiece: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
